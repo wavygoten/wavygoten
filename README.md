@@ -12,7 +12,6 @@
 
 - [wavygoten/traitsurfer]
 - [wavygoten/nft-mint-bot]
-- [wavygoten/salah-sms-notifier]
 - [wavygoten/license-system]
 - [wavygoten/MERN-session-auth]
 - [wavygoten/vaccine-finder]
@@ -28,7 +27,6 @@
 
 [wavygoten/traitsurfer]: https://github.com/wavygoten/rarity-api
 [wavygoten/nft-mint-bot]: https://github.com/wavygoten/nft-mint-bot
-[wavygoten/salah-sms-notifier]: https://github.com/wavygoten/salah-sms-notifier
 [wavygoten/license-system]: https://github.com/wavygoten/Licensing-System
 [wavygoten/mern-session-auth]: https://github.com/wavygoten/MERN-session-auth
 [wavygoten/vaccine-finder]: https://github.com/wavygoten/vaccine-finder
