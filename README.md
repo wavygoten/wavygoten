@@ -6,7 +6,7 @@
 
 ### Welcome!
 
-##### I'm a full stack web developer who enjoys working with UI/UX designs and server configurations. I'm also a college student studying computer science.
+##### I'm a full stack web developer who enjoys working with React typescript and backend server configurations. I'm also a college student studying computer science. 
 
 ### :notebook: Projects
 
