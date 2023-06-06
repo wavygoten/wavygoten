@@ -15,7 +15,6 @@
 - [wavygoten/license-system]
 - [wavygoten/MERN-session-auth]
 - [wavygoten/vaccine-finder]
-- [wavygoten/instagram-hashtag-comment-bot]
 
 ### :link: Personal Links
 
@@ -30,7 +29,6 @@
 [wavygoten/license-system]: https://github.com/wavygoten/Licensing-System
 [wavygoten/mern-session-auth]: https://github.com/wavygoten/MERN-session-auth
 [wavygoten/vaccine-finder]: https://github.com/wavygoten/vaccine-finder
-[wavygoten/instagram-hashtag-comment-bot]: https://github.com/wavygoten/ig-hashtag-comment-bot
 [portfolio]: https://ihsaancloud.vercel.app/
 [medium]: https://ihsaan.medium.com/
 [email]: mailto:ihsaan.b@yahoo.com
