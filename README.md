@@ -21,8 +21,7 @@
 - [Portfolio]
 - [Medium]
 - [Email]
-
-![Ihsaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavygoten&theme=tokyonight&show_icons=true)
+- [LinkedIn]
 
 [wavygoten/traitsurfer]: https://github.com/wavygoten/rarity-api
 [wavygoten/nft-mint-bot]: https://github.com/wavygoten/nft-mint-bot
@@ -32,3 +31,4 @@
 [portfolio]: https://ihsaancloud.vercel.app/
 [medium]: https://ihsaan.medium.com/
 [email]: mailto:ihsaan.b@yahoo.com
+[LinkedIn]: https://www.linkedin.com/in/ihsaanb
