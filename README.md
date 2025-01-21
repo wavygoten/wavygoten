@@ -19,7 +19,6 @@
 ### :link: Personal Links
 
 - [Portfolio]
-- [Medium]
 - [Email]
 - [LinkedIn]
 
@@ -30,5 +29,5 @@
 [wavygoten/vaccine-finder]: https://github.com/wavygoten/vaccine-finder
 [portfolio]: https://ihsaancloud.vercel.app/
 [medium]: https://ihsaan.medium.com/
-[email]: mailto:ihsaan.b@yahoo.com
+[email]: mailto:ihsaanb@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/ihsaanb
