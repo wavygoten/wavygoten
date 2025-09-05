@@ -6,7 +6,7 @@
 
 ### Welcome!
 
-##### I'm a university computer science graduate who enjoys working with developing and integrating systems.  
+##### I'm an aspiring developer who enjoys working with building and integrating systems.  
 
 ### :notebook: Projects
 
