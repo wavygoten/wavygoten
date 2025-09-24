@@ -1,6 +1,6 @@
-<div align="center">
-    <h1>Wavygoten</h1>
-</div>
+<!-- <div align="center">
+    <h1>ihsaanb</h1>
+</div> -->
 
 ## Hey :wave: I'm Ihsaan
 
@@ -10,11 +10,11 @@
 
 ### :notebook: Projects
 
-- [wavygoten/traitsurfer]
-- [wavygoten/nft-mint-bot]
-- [wavygoten/license-system]
-- [wavygoten/MERN-session-auth]
-- [wavygoten/vaccine-finder]
+- [ihsaanb/traitsurfer]
+- [ihsaanb/nft-mint-bot]
+- [ihsaanb/license-system]
+- [ihsaanb/MERN-session-auth]
+- [ihsaanb/vaccine-finder]
 
 ### :link: Personal Links
 
@@ -22,11 +22,11 @@
 - [Email]
 - [LinkedIn]
 
-[wavygoten/traitsurfer]: https://github.com/wavygoten/rarity-api
-[wavygoten/nft-mint-bot]: https://github.com/wavygoten/nft-mint-bot
-[wavygoten/license-system]: https://github.com/wavygoten/Licensing-System
-[wavygoten/mern-session-auth]: https://github.com/wavygoten/MERN-session-auth
-[wavygoten/vaccine-finder]: https://github.com/wavygoten/vaccine-finder
+[ihsaanb/traitsurfer]: https://github.com/ihsaanb/rarity-api
+[ihsaanb/nft-mint-bot]: https://github.com/ihsaanb/nft-mint-bot
+[ihsaanb/license-system]: https://github.com/ihsaanb/Licensing-System
+[ihsaanb/mern-session-auth]: https://github.com/ihsaanb/MERN-session-auth
+[ihsaanb/vaccine-finder]: https://github.com/ihsaanb/vaccine-finder
 [portfolio]: https://ihsaancloud.vercel.app/
 [medium]: https://ihsaan.medium.com/
 [email]: mailto:ihsaanb@gmail.com
